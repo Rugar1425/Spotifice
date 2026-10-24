@@ -1,0 +1,11 @@
+{
+    "id": "Portal2-vol1",
+    "name": "Portal 2 Soundtrack Volume 1",
+    "description": "",
+    "owner": "Valve Inc",
+    "created_at": "25-05-2011",
+    "track_ids": [
+        "31dea92aa14e4ccd",
+        "8c395658c14dcce3"
+    ]
+}
